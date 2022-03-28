@@ -1,4 +1,4 @@
-HI I AM ANUJ VERMA FRONTEND DEVELOPER (REACT JS) THE BEST
+I am the winner of my own game called LIFE
 
 # Getting Started with Create React App
 
