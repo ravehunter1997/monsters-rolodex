@@ -31,7 +31,11 @@ useEffect(()=>{
         
 return(
   <div className="App">
+<<<<<<< HEAD
      <h1 className='app-title'>Monsters Rol0odex</h1>
+=======
+     <h1 className='app-title'>Monsters Rolodex --made By ANUJ</h1>
+>>>>>>> 9a38dea5690b539c5bf0bb90eb9cf22ca406c6da
      <SearchBox
        className = 'search-box'
        placeholder = 'Search Monsters' 
